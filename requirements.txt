@@ -3,7 +3,7 @@ astropy
 photutils
 matplotlib
 requests
-skimage
+scikit-image
 astroquery
 scipy
 ccdproc
