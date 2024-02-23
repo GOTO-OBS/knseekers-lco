@@ -1,0 +1,10 @@
+numpy
+astropy
+photutils
+matplotlib
+requests
+skimage
+astroquery
+scipy
+ccdproc
+PyZOGY

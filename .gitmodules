@@ -1,0 +1,3 @@
+[submodule "photometry-sans-frustration"]
+	path = photometry-sans-frustration
+	url = git@github.com:mnicholl/photometry-sans-frustration.git
