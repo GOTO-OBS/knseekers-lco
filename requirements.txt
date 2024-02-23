@@ -6,5 +6,7 @@ requests
 scikit-image
 astroquery
 scipy
-ccdproc
-PyZOGY
+ccdproc~=2.4.1
+astroalign
+git+https://github.com/dguevel/PyZOGY
+wget
