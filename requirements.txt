@@ -10,3 +10,5 @@ ccdproc~=2.4.1
 astroalign
 git+https://github.com/dguevel/PyZOGY
 wget
+pandas
+sncosmo
