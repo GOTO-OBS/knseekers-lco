@@ -2,7 +2,9 @@
 Repository containing reduction codes and data from the Kilonova Seekers Global Sky Partners project
 
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-
+<a target="_blank" href="https://colab.research.google.com/github/GOTO-OBS/knseekers-lco/tree/main/notebooks">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 ## Documentation
 Instructions on how to use the notebooks and codes in this repository can be found under the `docs` folder.
