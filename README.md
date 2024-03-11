@@ -1,6 +1,8 @@
 # KN Seekers Global Sky Partners
 Repository containing reduction codes and data from the Kilonova Seekers Global Sky Partners pilot project
 
+**Please click the 'launch binder' button to get started!**
+
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GOTO-OBS/knseekers-lco/HEAD)
 
