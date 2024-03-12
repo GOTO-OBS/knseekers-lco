@@ -9,6 +9,9 @@ Repository containing reduction codes and data from the Kilonova Seekers Global 
 ## What is the project?
 As we have a core group of very dedicated volunteers, a key target of ours is to provide the opportunity for Kilonova Seekers volunteers to take follow-up observations themselves of targets that they have found. This will provide the opportunity for members of the public (you!) to be involved in transient science from detection all the way to classification. We have secured 10 hours of time on the 0.4m telescope network of the [Las Cumbres Observatory](https://lco.global) (LCO) Education Development program through the [Global Sky Partners](https://lco.global/education/partners) to test and develop a program to do this using a small group of our volunteers: if this initial test goes well we will be applying for LCO Global Sky Partners time in April to launch this as a full-scale project. 
 
+**More information on [Kilonova Seekers](https://kilonova-seekers.org)**  
+**More information on [GOTO](https://goto-observatory.org)**
+
 ## What is Las Cumbres Observatory?
 LCO is a network of telescopes around the world, whose locations allow for near constant observation of astronomical events. The 0.4m telescopes available to us via this program are located in Hawaii, Texas, Chile, Tenerife, South Africa and Australia, meaning that we can access near-instantaneous follow-up of transient phenomena whatever the time of day. This is the same network as used by professional astronomers around the globe, and so gives you a real taste of what it's like to study supernovae!
 The LCO Scheduler is completely robotic, taking observation requests via an online form, and automatically assigning individual telescopes to take the requested observations based on conditions at each site and the type of data requested. 
