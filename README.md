@@ -18,7 +18,7 @@ The LCO Scheduler is completely robotic, taking observation requests via an onli
 Projects involving members of the public are provided through the Global Sky Partners, who have over 1000 hours of observing time on the 0.4m telescope network for partner projects to use.
 
 ## Documentation
-Instructions on how to use the notebooks and codes in this repository can be found under the `docs` folder.
+Instructions on how to use the notebooks and codes in this repository can be found under the `docs` folder. Once you have downloaded the data to your machine using the tutorial there, open the notebooks folder to begin.
 
 ## Installation
 We highly recommend using the pre-built Binder environment to run the pipeline and any other analysis. We have tested this extensively, and are best able to maintain the project in this way. You can of course download and run everything locally, but we are unable to provide direct support for this.
