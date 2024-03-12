@@ -2,9 +2,9 @@
 Repository containing reduction codes and data from the Kilonova Seekers Global Sky Partners pilot project
 
 **Please click the 'launch binder' link below to get started!**
-# [Launch Binder](https://mybinder.org/v2/gh/GOTO-OBS/knseekers-lco/HEAD)
+# [Launch Binder](https://mybinder.org/v2/gh/GOTO-OBS/knseekers-lco/release)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GOTO-OBS/knseekers-lco/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GOTO-OBS/knseekers-lco/release)
 
 ## What is the project?
 As we have a core group of very dedicated volunteers, a key target of ours is to provide the opportunity for Kilonova Seekers volunteers to take follow-up observations themselves of targets that they have found. This will provide the opportunity for members of the public (you!) to be involved in transient science from detection all the way to classification. We have secured 10 hours of time on the 0.4m telescope network of the [Las Cumbres Observatory](https://lco.global) (LCO) Education Development program through the [Global Sky Partners](https://lco.global/education/partners) to test and develop a program to do this using a small group of our volunteers: if this initial test goes well we will be applying for LCO Global Sky Partners time in April to launch this as a full-scale project. 
@@ -18,7 +18,7 @@ The LCO Scheduler is completely robotic, taking observation requests via an onli
 Projects involving members of the public are provided through the Global Sky Partners, who have over 1000 hours of observing time on the 0.4m telescope network for partner projects to use.
 
 ## Documentation
-Instructions on how to use the notebooks and codes in this repository can be found under the `docs` folder.
+Instructions on how to use the notebooks and codes in this repository can be found under the `docs` folder. Once you have downloaded the data to your machine using the tutorial there, open the notebooks folder to begin.
 
 ## Installation
 We highly recommend using the pre-built Binder environment to run the pipeline and any other analysis. We have tested this extensively, and are best able to maintain the project in this way. You can of course download and run everything locally, but we are unable to provide direct support for this.
@@ -32,4 +32,4 @@ Data from the Kilonova Seekers pilot can be downloaded directly from the [LCO Ar
 
 
 
-# [Launch Binder](https://mybinder.org/v2/gh/GOTO-OBS/knseekers-lco/HEAD)
+# [Launch Binder](https://mybinder.org/v2/gh/GOTO-OBS/knseekers-lco/release)
