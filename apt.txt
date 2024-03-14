@@ -1,1 +1,1 @@
-libcfitsio-dev
+libcfitsio9
