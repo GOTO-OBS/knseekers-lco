@@ -1,1 +1,1 @@
-cfitsio
+libcfitsio-dev
