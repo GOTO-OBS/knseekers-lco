@@ -13,7 +13,7 @@ You will be able to collaboratively decide which transient discoveries to follow
 
 We ask that you please read and consider our [Code of Conduct.](https://github.com/GOTO-OBS/knseekers-lco?tab=coc-ov-file) 
 
-To join the project Slack channel so that you can talk with the team and other volunteers, please fill out the short form here, so that we can grant you access.
+To join the project Slack channel so that you can talk with the team and other volunteers, please fill out the [short form here](https://forms.gle/rdGiCQMiQ28w1kZp9), so that we can grant you access.
 
 **More information on [Kilonova Seekers](https://kilonova-seekers.org)**  
 **More information on [GOTO](https://goto-observatory.org)**
