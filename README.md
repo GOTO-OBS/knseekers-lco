@@ -1,5 +1,5 @@
-# KN Seekers Global Sky Partners
-Repository containing reduction codes and data from the Kilonova Seekers Global Sky Partners pilot project
+# Kilonova Seekers - LCO: STAR (Surveying Transients with Amateur Researchers)
+Repository containing reduction codes and data from the Kilonova Seekers - LCO: STAR project.
 
 **Please click the 'launch binder' link below to get started!**
 # [Launch Binder](https://mybinder.org/v2/gh/GOTO-OBS/knseekers-lco/release)
@@ -7,7 +7,13 @@ Repository containing reduction codes and data from the Kilonova Seekers Global 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GOTO-OBS/knseekers-lco/release)
 
 ## What is the project?
-As we have a core group of very dedicated volunteers, a key target of ours is to provide the opportunity for Kilonova Seekers volunteers to take follow-up observations themselves of targets that they have found. This will provide the opportunity for members of the public (you!) to be involved in transient science from detection all the way to classification. We have secured 10 hours of time on the 0.4m telescope network of the [Las Cumbres Observatory](https://lco.global) (LCO) Education Development program through the [Global Sky Partners](https://lco.global/education/partners) to test and develop a program to do this using a small group of our volunteers: if this initial test goes well we will be applying for LCO Global Sky Partners time in April to launch this as a full-scale project. 
+As we have a core group of very dedicated volunteers, we are keen to provide the opportunity for Kilonova Seekers volunteers to take follow-up observations themselves of targets that they have found, and so we developed the Kilonova Seekers - LCO: STAR project. This provides the opportunity for members of the public (you!) to be involved in transient science from detection all the way to classification. We have been awarded 15 hours of time on the 0.4m telescope network of the [Las Cumbres Observatory](https://lco.global) (LCO) through the [Global Sky Partners](https://lco.global/education/partners) for you to use!
+
+You will be able to collaboratively decide which transient discoveries to follow-up from the Kilonova Seekers citizen science project, trigger observations, create light-curves, and produce colour images, guided by a lead observer, with online training and support from the project team. 
+
+We ask that you please read and consider our [Code of Conduct.](https://github.com/GOTO-OBS/knseekers-lco?tab=coc-ov-file) 
+
+To join the project Slack channel so that you can talk with the team and other volunteers, please fill out the [short form here](https://forms.gle/rdGiCQMiQ28w1kZp9), so that we can grant you access.
 
 **More information on [Kilonova Seekers](https://kilonova-seekers.org)**  
 **More information on [GOTO](https://goto-observatory.org)**
