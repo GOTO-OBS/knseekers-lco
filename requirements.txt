@@ -13,3 +13,5 @@ wget
 pandas
 sncosmo
 sep-pjw
+iminuit
+sfdmap2
